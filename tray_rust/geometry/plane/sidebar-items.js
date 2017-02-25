@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Plane","A plane centered at the origin spanning [-1, -1] to [1, 1] with a normal along [0, 0, 1]"]]});
